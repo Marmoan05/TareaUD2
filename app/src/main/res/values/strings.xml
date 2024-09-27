@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TeoriaPMDM</string>
+    <string name="btn_show">Mostrar</string>
+    <string name="txt_show">Hola mundo</string>
+
 </resources>

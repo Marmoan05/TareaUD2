@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">TeoriaPMDM</string>
-    <string name="btn_show">Mostrar</string>
-    <string name="txt_show">Hola mundo</string>
-
+    <string name="elige_opcion">Elige una opción</string>
 </resources>
